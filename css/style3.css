@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color:darkslateblue}
+
+#Logo{float:left;}
+#icon{float:right;}
+#Navigate{clear:both;border-top:solid black 1px;border-bottom:solid black 1px}
+
+#Navigate a{font-family:Impact; word-spacing:30px;text-decoration-line: none;color:black;}
+
+#Navigate a:hover {color:orange;}
+
+#Title{color:orange;}
+#Title{clear:both;border-bottom:solid black 2px;margin:0px 30px 0px 30px}
+
+#LeftContent{padding-bottom:0px;margin:0px 25px 0px 25px;border-bottom:solid black 2px}
+
+#last{padding: 0px 0px 0px 10px}
+
+#kotak{background-color:white; width:900px; margin:0px auto 0px auto;}
+#Footer{margin: 0px 300px 500px}

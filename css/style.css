@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+body {background-color:darkslateblue}
+
+#Logo{float:left;}
+#icon{float:right;}
+#Navigate{clear:both;border-top:solid black 1px;border-bottom:solid black 1px}
+
+#Navigate a{font-family:Impact; word-spacing:30px;text-decoration-line: none;color:black;}
+
+#Navigate a:hover {color:orange;}
+
+#Title{color:orange;}
+#Title{clear:both;border-bottom:solid black 1px}
+
+#LeftContent {float:left; width:600px;}
+#LeftContent img {border :solid black 1px; padding: 5px 5px 5px 5px;}
+#LeftContent img {margin:10px 6px 0px auto;}
+ 
+
+
+#RightContent {float:right; width:292px}
+#RightContent h3 {color:orange;}
+
+#Leftbox{float:left; width:250px;background: #BFB6B6;} 
+#Leftbox {margin:0px 15px 0px 45px}
+#Leftbox{border-top:solid #643116 20px}
+
+#Middlebox{float:left; width:250px;background: #BFB6B6;}
+#Middlebox {margin:0px 15px;}
+#Middlebox{border-top:solid #581012 20px}
+
+#Rightbox{float:left; width:250px;background: #BFB6B6;}
+#Rightbox {margin:0px 15px;}
+#Rightbox{border-top:solid #054504 20px}
+
+
+#Footer {clear:both;}
+
+
+#kotak{background-color:white; width:900px; margin:0px auto 0px auto;}
